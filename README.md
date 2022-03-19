@@ -1,16 +1,19 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Gollu Megha Shyam</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">Full-stack web developer from India. Problem solving and optimisation-oriented aspiring full-stack developer with MERN stack specialization. Curious and always eager to learn with a keen eye for detail in products. Looking forward to mastering his skills in a challenging work environment.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN stack**
 
-- 📫 How to reach me **meghashyam.g@gmail.com**
+- 👨‍💻 All of my projects are available at [https://shyam.dev.voyage/](https://shyam.dev.voyage/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1clUbH_qVen3DUAlUPfP4TX7Je-zZrfsa/view?usp=sharing](https://drive.google.com/file/d/1clUbH_qVen3DUAlUPfP4TX7Je-zZrfsa/view?usp=sharing)
+- 💬 Ask me about **React, NodeJS, HTML, CSS, Express JS, Mongo DB, Python**
+
+- 📫Email me at: **meghashyam.g@gmail.com**
+
+- 📄Resume [https://drive.google.com/file/d/1clUbH_qVen3DUAlUPfP4TX7Je-zZrfsa/view?usp=sharing](https://drive.google.com/file/d/1clUbH_qVen3DUAlUPfP4TX7Je-zZrfsa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/megha shyam gollu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="megha shyam gollu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/megha-shyam-gollu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/megha-shyam-gollu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@megha_fw14_307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@megha_fw14_307" height="30" width="40" /></a>
 </p>
 
@@ -19,5 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghashyamgollu&show_icons=true&locale=en&layout=compact" alt="meghashyamgollu" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghashyamgollu&show_icons=true&locale=en" alt="meghashyamgollu" /></p> -->
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghashyamgollu&show_icons=true&locale=en" alt="meghashyamgollu" /></p>
