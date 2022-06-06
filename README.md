@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://shyam.dev.voyage/](https://shyam.dev.voyage/)
+- 👨‍💻 All of my projects are available at [(https://shyam-dev-portfolio.vercel.app/)](https://shyam-dev-portfolio.vercel.app/))
 
 - 💬 Ask me about **React, NodeJS, HTML, CSS, Express JS, Mongo DB, Python**
 
